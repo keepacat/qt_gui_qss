@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW", //环境名
+            "includePath": [
+                "C:/Qt/Qt5.12.1/5.12.1/mingw73_64/include" //指定头文件路径,这里指定的是当前工作目录，如有需要在后面添加，添加方式是加入 "/to/path" 格式的路径
+            ],
+            "defines": [],
+            "compilerPath": "C:/Qt/Qt5.12.1/Tools/mingw730_64/bin/g++.exe", //编译器的路径，可根据自己的安装情况进行设置
+            "cStandard": "c11",
+            "cppStandard": "c++17", //设置使用的 C/C++ 标准
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "b2.catkin_tools"
+        }
+    ],
+    "version": 4
+}

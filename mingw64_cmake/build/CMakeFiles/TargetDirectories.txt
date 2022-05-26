@@ -1,0 +1,3 @@
+D:/github/qt_gui_qss/mingw64_cmake/build/CMakeFiles/mingw64_cmake.dir
+D:/github/qt_gui_qss/mingw64_cmake/build/CMakeFiles/edit_cache.dir
+D:/github/qt_gui_qss/mingw64_cmake/build/CMakeFiles/rebuild_cache.dir
